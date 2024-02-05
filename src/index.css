@@ -1,0 +1,26 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+body {
+  font-family: "Figtree", sans-serif;
+}
+
+::selection {
+  background: rgb(208, 208, 208);
+}
+
+.fancy-btn,
+.fancy-background {
+  padding: 8px 6px;
+  border: 1px solid #282828;
+  box-shadow: 2px 2px 0 0 white, 4px 4px 0 0 #282828;
+  transition: 75ms;
+  background: white;
+}
+
+.fancy-btn:hover {
+  box-shadow: 3px 3px white, 6px 6px 0 0 #282828;
+  transform: translate(-2px, -2px);
+  opacity: 0.8;
+}
