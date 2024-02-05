@@ -4,7 +4,7 @@
 
 ## Visit Live
 
-<a href=""><h3>Coming Soon</h3></a>
+<a href="https://linkigloo.netlify.app/"><h3>Link Igloo</h3></a>
 
  ## About the project
 
