@@ -25,12 +25,11 @@ export default function ProfileCard() {
             </p>
             <div className="border-y border-gray-700 my-1 py-4 sm:border-l sm:border-y-0 sm:pl-2 sm:my-1 sm:py-0">
               <p>
-                My name is Wilber Amaya-Maurisio, and I'm a Full Stack Developer
+                My name is Wilber Amaya-Maurisio, a Software Engineer
               </p>
               <p>
-                I have pivoted my career from the military to the dynamic world
-                of programming, turning a longstanding dream into reality. What
-                a journey 🐧 ❄️
+                who has have pivoted his career from the military to the dynamic world
+                of programming, turning a longstanding dream into reality. 🐧 ❄️
               </p>
             </div>
           </div>
