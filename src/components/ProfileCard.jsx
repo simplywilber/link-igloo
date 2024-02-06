@@ -34,7 +34,7 @@ export default function ProfileCard() {
               </p>
             </div>
           </div>
-          <div className="flex gap-2 justify-between sm:justify-normal">
+          <div className="flex flex-col gap-2 justify-between sm:flex-row sm:justify-normal">
             <div>
               <a href="https://www.instagram.com/simplywilber" target="_blank">
                 <p className="underline">@simplywilber</p>{" "}
@@ -49,11 +49,11 @@ export default function ProfileCard() {
               <a
                 href="https://www.buymeacoffee.com/simplywilber"
                 target="_blank"
-                className="flex items-center gap-1"
+                className="items-center gap-1"
               >
                 {" "}
-                <i className="fa-solid fa-mug-hot text-sm"></i>
-                <p className="underline">Buy me café </p>
+                
+                <p className="underline"><i className="fa-solid fa-mug-hot text-sm mr-1"></i>Buy me café</p>
               </a>
             </div>
           </div>
